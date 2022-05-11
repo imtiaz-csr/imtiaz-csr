@@ -24,7 +24,6 @@
 <img src="https://cdn1.iconfinder.com/data/icons/microsoft-product-2/512/29_Microsoft_Visio-512.png" width="30px" />
 <img src="https://cdn2.iconfinder.com/data/icons/coding-and-development-soft-fill/60/SQL-Database-programming-developer-software-query-language-512.png" width="30px" />
 <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/typescript-512.png" width="30px" />
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" width="30px" />
   
 <img src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/font-awesome-512.png" width="30px" />
 <img src="https://cdn2.iconfinder.com/data/icons/programming-75/512/MVC-model-view-controller-512.png" width="30px" />
